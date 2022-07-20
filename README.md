@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Bassem Dimassi</h1>
 <h3 align="center">A passionate Javascript developer from Tunisia</h3>
 
-<div style="display: flex; flex-wrap: wrap;">
     
-<div style="flex: 50%;">
-- 🔭 I’m currently working on **scraping books from many sources**
+- 🔭 I’m currently working on **Scraping books from many sources**
 
 - 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **React, Next.js and Node.js.**
 
 - 📫 How to reach me **dimassibassem99@gmail.com**
-</div>
-  
- <a style="flex: 50%;" href="https://app.daily.dev/dimassibassem"><img src="https://github.com/dimassibassem/dimassibassem/blob/main/devcard.svg" width="200" alt="Bassem Dimassi's Dev Card"/></a>
-  
-</div>
+    
+ <a align="center" href="https://app.daily.dev/dimassibassem">
+     <img src="https://github.com/dimassibassem/dimassibassem/blob/main/devcard.svg" width="300" alt="Bassem Dimassi's Dev Card"/>
+    </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
