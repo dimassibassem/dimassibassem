@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Javascript developer from Tunisia</h3>
 
 <div style="display: flex; flex-wrap: wrap;">
+    
 <div style="flex: 50%;">
 - 🔭 I’m currently working on **scraping books from many sources**
 
@@ -10,7 +11,7 @@
 - 💬 Ask me about **React, Next.js and Node.js.**
 
 - 📫 How to reach me **dimassibassem99@gmail.com**
-    </div>
+</div>
   
  <a style="flex: 50%;" href="https://app.daily.dev/dimassibassem"><img src="https://github.com/dimassibassem/dimassibassem/blob/main/devcard.svg" width="200" alt="Bassem Dimassi's Dev Card"/></a>
   
