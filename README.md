@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **dimassibassem99@gmail.com**
     </div>
-  <a href="https://app.daily.dev/dimassibassem"><img src="https://github.com/dimassibassem/dimassibassem/blob/main/devcard.svg" width="400" alt="Bassem Dimassi's Dev Card"/></a>
+  
+ <a href="https://app.daily.dev/dimassibassem"><img src="https://github.com/dimassibassem/dimassibassem/blob/main/devcard.svg" width="200" alt="Bassem Dimassi's Dev Card"/></a>
   
 </div>
 
