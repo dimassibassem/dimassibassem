@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-<a href="https://app.daily.dev/dimassibassem"><img src="https://api.daily.dev/devcards/5f9eda3822b545dcb5a831c569622da8.png?r=41y" width="400" alt="Dimassi Bassem's Dev Card"/></a>
+<a href="https://app.daily.dev/dimassibassem"><img src="https://github.com/rebelchris/dimassibassem/blob/master/devcard.svg" width="400" alt="Bassem Dimassi's Dev Card"/></a>
 
 <!--
 **dimassibassem/dimassibassem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
