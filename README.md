@@ -10,10 +10,11 @@
 
 - 📫 How to reach me **dimassibassem99@gmail.com**
     
- <a align="center" href="https://app.daily.dev/dimassibassem">
+ <div align="center" >   
+ <a href="https://app.daily.dev/dimassibassem">
      <img src="https://github.com/dimassibassem/dimassibassem/blob/main/devcard.svg" width="300" alt="Bassem Dimassi's Dev Card"/>
     </a>
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dimassibassem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dimassibassem" height="30" width="40" /></a>
