@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bassem Dimassi</h1>
 <h3 align="center">A passionate Javascript developer from Tunisia</h3>
 
-<div style="display: grid ; grid-column: 2; grid-row: 1; ">
-  <div>
+<div style="display: flex; flex-wrap: wrap;">
+<div style="flex: 50%;">
 - 🔭 I’m currently working on **scraping books from many sources**
 
 - 🌱 I’m currently learning **Rust**
@@ -12,7 +12,7 @@
 - 📫 How to reach me **dimassibassem99@gmail.com**
     </div>
   
- <a href="https://app.daily.dev/dimassibassem"><img src="https://github.com/dimassibassem/dimassibassem/blob/main/devcard.svg" width="200" alt="Bassem Dimassi's Dev Card"/></a>
+ <a style="flex: 50%;" href="https://app.daily.dev/dimassibassem"><img src="https://github.com/dimassibassem/dimassibassem/blob/main/devcard.svg" width="200" alt="Bassem Dimassi's Dev Card"/></a>
   
 </div>
 
