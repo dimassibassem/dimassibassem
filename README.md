@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bassem Dimassi</h1>
 <h3 align="center">A passionate Javascript developer from Tunisia</h3>
 
-<div style="display: grid , grid-grid-column: 2;">
+<div style="display: grid , grid-column: 2;">
   <div>
 - 🔭 I’m currently working on **scraping books from many sources**
 
