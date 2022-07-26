@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **dimassibassem99@gmail.com**
     
