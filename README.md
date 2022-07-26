@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **React, Next.js and Node.js.**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **dimassibassem99@gmail.com**
     
