@@ -10,8 +10,9 @@
 
 - 📫 How to reach me **dimassibassem99@gmail.com**
 
-- 🌐 Take a look at my Personal Portfolio Website
-<a href="https://www.bassemdimassi.works/" target="_blank">Bassem Dimassi Portfolio</a>
+- 🌐 Take a look at my Personal Portfolio Website [Bassem Dimassi Portfolio](https://www.bassemdimassi.works/)
+
+
  <div align="center" >   
  <a href="https://app.daily.dev/dimassibassem">
      <img src="https://github.com/dimassibassem/dimassibassem/blob/main/devcard.svg" width="300" alt="Bassem Dimassi's Dev Card"/>
