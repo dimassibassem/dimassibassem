@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Javascript developer from Tunisia</h3>
 
     
-- 🔭 I’m currently working on **Justech Company Website**
+- 🔭 I’m currently working on my **End of studies project**
 
 - 🌱 I’m currently learning **Rust**
 
