@@ -19,6 +19,10 @@
     </a>
 </div>
 <br>
+
+
+
+<br>
 <h2>Social Networks</h2>
 
 [![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Facebook][3.2]][3]
@@ -30,10 +34,14 @@
 [1]: https://twitter.com/dimassibassem
 [2]: https://www.linkedin.com/in/dimassibassem/
 [3]: https://www.facebook.com/dimassi.bassem
-
 <br>
-<h2>Skills</h2>
-
+<div align="center" width="600">
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimassibassem)
+    
+</div>
+    
+<!-- <h2>Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,react,html,css,js,ts,bootstrap,tailwind,next,vercel,flask,redux" />
@@ -43,4 +51,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,selenium,express,mysql,electron,idea,prisma,docker,github,cs,dotnet,nodejs,postgres" />
   </a>
-</p>
+</p> -->
