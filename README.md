@@ -15,7 +15,7 @@
 
  <div align="center" >   
  <a href="https://app.daily.dev/dimassibassem">
-     <img src="https://github.com/dimassibassem/dimassibassem/blob/main/devcard.svg" width="300" alt="Bassem Dimassi's Dev Card"/>
+     <img src="https://github.com/dimassibassem/dimassibassem/blob/main/devcard.svg" width="250" alt="Bassem Dimassi's Dev Card"/>
     </a>
 </div>
 <br>
