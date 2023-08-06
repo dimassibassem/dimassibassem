@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **dimassibassem99@gmail.com**
 
-- 🌐 Take a look at my Personal Portfolio Website [Bassem Dimassi Portfolio](https://www.bassemdimassi.works/)
+- 🌐 Take a look at my Personal Portfolio Website [Bassem Dimassi Portfolio](https://www.bassemdimassi.tech/)
 
 
  <div align="center" >   
