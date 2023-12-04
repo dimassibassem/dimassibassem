@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Javascript developer from Tunisia</h3>
 
     
-- 🔭 I’m currently working on my **End of studies project**
+- 🔭 I’m currently working at **[Proxym-IT](https://www.proxym-group.com/)**
 
 - 🌱 I’m currently learning **Rust**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dimassibassem99@gmail.com**
 
-- 💻 Take a look at my Personal Portfolio Website [Bassem Dimassi Portfolio](https://www.bassemdimassi.tech/)
+- 💻 Take a look at my Personal Portfolio Website **[Bassem Dimassi Portfolio](https://www.bassemdimassi.tech/)**
 
  <div align="center" >   
  <a href="https://app.daily.dev/dimassibassem">
