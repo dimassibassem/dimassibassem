@@ -5,8 +5,6 @@
     
 - 🔭 I’m currently working at **[Proxym-IT](https://www.proxym-group.com/)**
 
-- 🌱 I’m currently learning **Rust**
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **dimassibassem99@gmail.com**
